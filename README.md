@@ -1,5 +1,7 @@
 ### Hi, I’m Huy 👋 I graduated with a B.S. in Computer Science from the University of Cincinnati!
 
+💼 Currently Seeking: Full‑time software engineering roles anywhere in the US!
+
 🔭 Industry Experience: Contributed to production‑grade systems at Siemens Digital Industries Software, working across the full SDLC and modern engineering workflows.
 
 🌱 Currently Growing In: Python, C#, and C++ — strengthening systems‑level and backend engineering skills.
