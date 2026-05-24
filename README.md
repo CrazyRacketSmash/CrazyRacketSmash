@@ -14,7 +14,7 @@
 
 📫 Reach Me: nguyenchihuy10@gmail.com
 
-⚡ Fun Fact: I play piano and guitar, and I love outdoor activities, sports, and Netflix.
+⚡ Fun Fact: I am a big badminton and music lover. I play piano, guitar, and bing chilling on Netflix K-dramas.
 <!--
 **leohuynguyenchi/leohuynguyenchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
